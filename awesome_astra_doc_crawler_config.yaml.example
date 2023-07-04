@@ -1,0 +1,6 @@
+github:
+  token: "your_github_token_here"
+  repo: "username/repo"
+  path: "directory_in_repo"
+output:
+  directory: "your_output_directory_here"
